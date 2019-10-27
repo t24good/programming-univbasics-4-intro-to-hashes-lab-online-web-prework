@@ -20,9 +20,9 @@ end
 
 
 def id_generator
-  id_generator = {:id => 1 
+  id_generator = {:id => 101 
   }
-id_generator[:id]
+id_generator[101]
 end
 
 def my_hash_creator(key, value)
