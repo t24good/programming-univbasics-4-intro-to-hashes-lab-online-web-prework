@@ -20,9 +20,9 @@ end
 
 
 def id_generator
-  id_generator = { 1 => "food"
+  id_generator = {:food => 1 
   }
-id_generator[1]
+id_generator[:food]
 end
 
 def my_hash_creator(key, value)
