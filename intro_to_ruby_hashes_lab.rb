@@ -22,7 +22,7 @@ end
 def id_generator
   id_generator = {
     :message => 1202
-    :id => "101"
+    :id => 101
   }
   id_generator
 end
