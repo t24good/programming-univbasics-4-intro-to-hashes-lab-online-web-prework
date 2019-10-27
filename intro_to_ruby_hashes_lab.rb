@@ -17,6 +17,8 @@ def pioneer
 end
 
 def id_generator
+  id_generator => { 1 => food]
+  id_generator
   # return a hash with a key :id assigned to positive integer
 end
 
