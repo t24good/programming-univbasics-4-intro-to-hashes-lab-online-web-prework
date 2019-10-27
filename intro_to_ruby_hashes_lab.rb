@@ -4,7 +4,7 @@ end
 
 def my_hash
   my_hash = {
-    :created => time.now,
+    :created => Time.now,
     :message => "hello world"
   }
 my_hash
