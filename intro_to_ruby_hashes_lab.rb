@@ -20,7 +20,7 @@ end
 
 
 def id_generator
-  id_generator => { 1 => "food"
+  id_generator = { 1 => "food"
   }
 id_generator[1]
 end
