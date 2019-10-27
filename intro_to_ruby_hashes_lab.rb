@@ -2,6 +2,7 @@ def new_hash
   new_hash = {}
 end
 
+
 def my_hash
   my_hash = {
     :created => Time.now,
@@ -10,16 +11,18 @@ def my_hash
 my_hash
 end
 
+
 def pioneer
   pioneer = {
     :name => "Grace Hopper"
   }
 end
 
+
 def id_generator
   id_generator => { 1 => "food"
   }
-  id_generator[1]
+id_generator[1]
 end
 
 def my_hash_creator(key, value)
