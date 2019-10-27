@@ -20,7 +20,7 @@ end
 
 
 def id_generator
-  id_generator = {101 => "hash"
+  id_generator = {101 => "hash", 202 => "quote"
   }
 id_generator[101]
 end
